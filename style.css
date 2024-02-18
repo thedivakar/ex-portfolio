@@ -1,0 +1,58 @@
+
+.nav-logo{
+    padding: 10px;
+    background-color: rgb(179, 179, 179);
+}
+.anchor {
+    margin-left: auto;
+    position: sticky;
+}
+.nav-1 {
+    color: black;
+
+}
+.nav-1:hover {
+    color: rgb(154, 154, 205);
+}
+.data-right {
+    padding: 160px;
+}
+.data-left {
+    padding: 140px; 
+}
+.img-pro {
+    height: 300px;
+}
+
+.img-social {
+    height: 40px;
+    padding: 10px;
+}
+.social-icons {
+    display: flex;
+    flex-direction: row;
+    padding-left: 565px;
+}
+.about-img {
+    height: 300px;
+    padding: 47px;
+    padding-right: 50px;
+}
+.serv-img {
+    height: 300px;
+    padding: 47px;
+    padding-left: 50px;
+}
+.serv-data {
+    padding: 50px;
+}
+.left-work-img {
+    height: 400px;
+    padding: 50px;
+    
+}
+.right-work-img {
+    height: 400px;
+    padding: 50px;
+
+}
